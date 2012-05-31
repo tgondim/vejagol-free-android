@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">VejaGol free!</string>
+    <string name="app_name">VejaGol Free</string>
+    <string name="carregando">Loading...</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="ordenacao">Order</string>
+    <string name="ordenar_por">Order by</string>
+   	
+   	<string-array name="itens_ordenacao">
+   	    <item>Date</item>
+   	    <item>Home Team</item>
+   	    <item>Guest Team</item>
+   	</string-array>
+   	
+    <string name="texto_outros_paises">To see the goals of other leagues</string>
+    <string name="texto_baixe_a_versao_completa">download the full version of VejaGol!</string>
+    <string name="texto_sem_propaganda">Besides helping us to keep our server, you have a version free of advertising.</string>
+    <string name="link_versao_completa">http://www.vejagol.com</string>
+    <string name="erro_de_conexao">Connection error. Please try again later.</string>
+    <string name="clique_pra_baixar">Download</string>
+    <string name="confirmar">Ok</string>
+    <string name="melhor_da_semana">Bests of the week</string>
+    <string name="cancelar">Cancel</string>
+    <string name="carregando_mais_jogos">Loading more games...</string>
+    <string name="impossivel_carregar">Unable to load games. Click to try again.</string>
+    <string name="escolha_seu_pais">Choose a league</string>
+    <string name="outros_paises">Other leagues</string>
+    <string name="baixe_vejagol">Download VejaGol!</string>
+    <string name="app_package_name">com.vejagol.android</string>
+    <string name="video_init">Initializing...</string>
+    <string name="video_detect">Detecting the bandwidth available to download video.</string>
+    <string name="video_token">Retrieving token from YouTube.</string>
+    <string name="video_loband">Buffering low-bandwidth.</string>
+    <string name="video_hiband">Buffering hi-bandwidth.</string>
+    <string name="video_error_title">Error</string>
+    <string name="video_error_msg">Sorry. An error has ocurred.</string>
+    <string name="share_via">Share via</string>
+    <string name="share_subject">Check out Vejagol!</string>
+    <string name="share_msgbody">Watch the goals of all soccer teams around the world! http://vejagol.com</string>
+    
+</resources>

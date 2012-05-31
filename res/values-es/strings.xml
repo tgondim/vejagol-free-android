@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">VejaGol free!</string>
+    <string name="app_name">VejaGol Free</string>
+    <string name="carregando">Cargando...</string>
+    <string name="sim">Sí</string>
+    <string name="nao">No</string>
+    <string name="ordenacao">Ordenación</string>
+    <string name="ordenar_por">Ordenar por</string>
+   	
+   	<string-array name="itens_ordenacao">
+   	    <item>Fecha</item>
+   	    <item>Equipo Local</item>
+   	    <item>Invitado Equipo</item>
+   	</string-array>
+   	
+    <string name="texto_outros_paises">Para ver los objetivos de otras ligas</string>
+    <string name="texto_baixe_a_versao_completa">descargar la versión completa de VejaGol!</string>
+    <string name="texto_sem_propaganda">Además de ayudarnos a mantener nuestro servidor, dispone de una versión libre de publicidad.</string>
+    
+    <string name="link_versao_completa">http://www.vejagol.com</string>
+    <string name="erro_de_conexao">Error de conexión. Por favor, inténtelo de nuevo más tarde.</string>
+    <string name="clique_pra_baixar">Descargar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="melhor_da_semana">Mejor de la Semana</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="carregando_mais_jogos">Cargando más juegos...</string>
+    <string name="impossivel_carregar">No se puede cargar juegos. Haga clic aquí para intentarlo de nuevo.</string>
+    <string name="escolha_seu_pais">Seleccione una liga</string>
+    <string name="outros_paises">Otras ligas</string>
+    <string name="baixe_vejagol">Descarga VejaGol!</string>
+    <string name="app_package_name">com.vejagol.android</string>
+    <string name="video_init">Inicialización...</string>
+    <string name="video_detect">La detección de ancho de banda disponible para descargar el vídeo.</string>
+    <string name="video_token">Recuperar token de YouTube.</string>
+    <string name="video_loband">Bufferizando bajo ancho de banda.</string>
+    <string name="video_hiband">Bufferizando alto ancho de banda.</string>
+    <string name="video_error_title">Error</string>
+    <string name="video_error_msg">Lo siento. Ha ocurrido un error.</string>
+    <string name="share_via">Parte via</string>
+    <string name="share_subject">Echa un vistazo a Vejagol!</string>
+    <string name="share_msgbody">Vea los goles de todos los equipos de fútbol de todo el mundo! http://vejagol.com</string>
+</resources>

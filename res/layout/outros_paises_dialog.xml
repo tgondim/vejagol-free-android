@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtOutrosPaises"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_outros_paises"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_gravity="center" android:ellipsize="none" android:gravity="center" android:textColor="@color/texto_extras"/>
+
+    <TextView
+        android:id="@+id/txtBaixeVersaoCompleta"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_baixe_a_versao_completa"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_gravity="center" android:ellipsize="none" android:gravity="center" android:textColor="@color/texto_extras"/>
+
+    <TextView
+        android:id="@+id/txtSemPropaganda"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_sem_propaganda"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_gravity="center" android:ellipsize="none" android:gravity="center" android:textColor="@color/texto_extras"/>
+
+    <TextView
+        android:id="@+id/txtLinkVersaoCompleta"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/link_versao_completa"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_gravity="center" android:ellipsize="none" android:gravity="center" android:textColor="@color/texto_extras" android:textStyle="italic"/>
+    
+	  <LinearLayout
+	        xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:orientation="vertical" >
+	
+	        <ImageButton
+	            android:id="@+id/btnVejaGol"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:layout_marginTop="15dp"
+	            android:src="@drawable/icon" 
+	            android:background="@color/layout_background"/>
+	
+	
+	        <TextView
+	            android:id="@+id/txtCliquePraBaixar"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/clique_pra_baixar"
+	            android:layout_gravity="center"
+	            android:textAppearance="?android:attr/textAppearanceSmall"
+	            android:textColor="@color/texto_clique_pra_baixar"/>
+	
+	    </LinearLayout>
+
+</LinearLayout>
